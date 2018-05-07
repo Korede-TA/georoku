@@ -1,7 +1,7 @@
 # georoku
 Heroku resources for Geoengineer
 
-## resources to build
+## Resources to Build
 - [x] heroku_addon (in progress)
 - [ ] heroku_addon_attachment
 - [ ] heroku_app
